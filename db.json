@@ -1,0 +1,112 @@
+{
+  "vehicles": [
+    {
+      "id": "1",
+      "make": "Ford",
+      "model": "Focus",
+      "type": "Hatchback",
+      "engineSize": 1.6,
+      "year": 2019,
+      "estimatedValue": 12000
+    },
+    {
+      "id": "2",
+      "make": "Ford",
+      "model": "Fiesta",
+      "type": "Hatchback",
+      "engineSize": 1.2,
+      "year": 2018,
+      "estimatedValue": 7500
+    },
+    {
+      "id": "3",
+      "make": "Toyota",
+      "model": "Corolla",
+      "type": "Hatchback",
+      "engineSize": 1.8,
+      "year": 2020,
+      "estimatedValue": 18500
+    },
+    {
+      "id": "4",
+      "make": "Toyota",
+      "model": "Yaris",
+      "type": "Hatchback",
+      "engineSize": 1.0,
+      "year": 2019,
+      "estimatedValue": 9000
+    },
+    {
+      "id": "5",
+      "make": "Honda",
+      "model": "Civic",
+      "type": "Hatchback",
+      "engineSize": 1.8,
+      "year": 2020,
+      "estimatedValue": 17500
+    },
+    {
+      "id": "6",
+      "make": "Volkswagen",
+      "model": "Golf",
+      "type": "Hatchback",
+      "engineSize": 2.0,
+      "year": 2021,
+      "estimatedValue": 22000
+    },
+    {
+      "id": "7",
+      "make": "Volkswagen",
+      "model": "Polo",
+      "type": "Hatchback",
+      "engineSize": 1.0,
+      "year": 2019,
+      "estimatedValue": 10500
+    },
+    {
+      "id": "8",
+      "make": "BMW",
+      "model": "3 Series",
+      "type": "Saloon",
+      "engineSize": 2.0,
+      "year": 2021,
+      "estimatedValue": 26500
+    },
+    {
+      "id": "9",
+      "make": "Audi",
+      "model": "A4",
+      "type": "Saloon",
+      "engineSize": 2.0,
+      "year": 2020,
+      "estimatedValue": 24500
+    },
+    {
+      "id": "10",
+      "make": "Mercedes",
+      "model": "C-Class",
+      "type": "Saloon",
+      "engineSize": 2.4,
+      "year": 2021,
+      "estimatedValue": 30000
+    },
+    {
+      "id": "11",
+      "make": "Nissan",
+      "model": "Qashqai",
+      "type": "SUV",
+      "engineSize": 1.6,
+      "year": 2020,
+      "estimatedValue": 16500
+    },
+    {
+      "id": "12",
+      "make": "Vauxhall",
+      "model": "Corsa",
+      "type": "Hatchback",
+      "engineSize": 1.2,
+      "year": 2018,
+      "estimatedValue": 8000
+    }
+  ]
+}
